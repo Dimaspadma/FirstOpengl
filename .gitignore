@@ -1,0 +1,16 @@
+
+.vs/
+
+*.sln
+
+*.vcxproj
+
+*.filters
+
+*.user
+
+glad.c
+
+Libraries/
+
+x64/
